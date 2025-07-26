@@ -2,10 +2,6 @@
 
 **AI-powered productivity suite** connecting Todo, Idea, Journal, and Timer apps with Claude via Model Context Protocol.
 
-[![Remote MCP](https://img.shields.io/badge/MCP-Remote_Server-blue)](https://modelcontextprotocol.io/)
-[![Production](https://img.shields.io/badge/Status-Production-green)](https://mcp-server.basaapp.com/mcp)
-[![Users](https://img.shields.io/badge/Users-10k+-orange)](https://mcp-app.basaapp.com/)
-
 🌐 **Server URL**: `https://mcp-server.basaapp.com/mcp`  
 📱 **Learn More**: [mcp-app.basaapp.com](https://mcp-app.basaapp.com/)
 
